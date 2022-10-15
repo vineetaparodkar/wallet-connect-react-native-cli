@@ -1,5 +1,5 @@
-# walletConnect React Native CLI Integration
-wallet connect integration with react native bare CLI project
+# WalletConnect React Native CLI Integration
+Wallet connect integration with react native bare CLI project
 
 ## Steps to run app
 - Intsall node modules 
